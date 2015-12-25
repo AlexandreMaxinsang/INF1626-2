@@ -1,0 +1,25 @@
+/****************************************************************/
+
+	INF1626-Linguagens Formais e Autômatos
+
+/****************************************************************/
+
+Projeto:
+	Contruir uma máquina de Turing Universal
+
+Codificação:
+	Estados- qB ,onde B é um numero binário com excessao de 'qf' ser o estado final.Ex:q1-estado inicial;q10-estado 2;q11-estado 3
+		 q1 é o estado incial.
+
+	Simbolos -aB,onde B é um numero binário com a excessao de 'a11' ser o simbolo branco.
+	
+	Direção - R-Direita;L-Esquerda;S-Parada
+
+	Regra:	Fita1:#<EstadoI><SimboloLido><SimboloEscrito><Direção><EstadoF>
+
+		Fita2:<StringEntrada>
+
+		Fita3:<EstadoDaMaquinaDeTuring>
+
+
+

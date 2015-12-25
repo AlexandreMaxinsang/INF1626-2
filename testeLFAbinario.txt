@@ -1,0 +1,20 @@
+
+Teste1(aceito)
+
+Fita1: q1a1a10Rq1#q1a11a11Rqf#q1a10a10Rq10#q10a1a1Lq11#q10a10a10Lq11#q10a11a11Lq11#q11a10a1Rq1
+Fita2: a10a10a1a1a11a11
+Fita3: q1
+
+
+Teste2(aceito)
+
+Fita1: q1a1a10Rq1#q1a11a11Rqf#q1a10a10Rq10#q10a1a1Lq11#q10a10a10Lq11#q10a11a11Lq11#q11a10a1Rq1
+Fita2: a1a1a10a10a11a11
+Fita3: q1
+
+
+Teste3(rejeitado)
+
+Fita1: q1a1a10Rq1#q1a11a11Rqf#q1a10a10Rq10#q10a1a1Lq11#q10a10a10Lq11#q10a11a11Lq11#q11a10a1Rq1
+Fita2: a10a1a1
+Fita3: q1
